@@ -1,0 +1,22 @@
+# Example Terraform variables file
+# Rename this file to terraform.tfvars and fill in the values
+
+# Source AWS account ID
+source_account_id = "123456789012"
+source_aws_region = 'us-east-1'
+
+# Destination AWS account ID
+target_account_aws_user_name = "namdi-tycon"
+target_account_id = "098765432109"
+target_aws_region = 'us-east-1'
+
+# QuickSight source dashboard ID
+source_dashboard_id = "example-source-dashboard-uuid"
+
+# Destination account user creds.
+target_aws_access_key = "xxxxxxxxxxx"
+target_aws_secret_key = "yyyyyyyyyyyyyyyyyyyyyyyyyy"
+
+# Source account user creds.
+source_aws_access_key = "aaaaaaaaaaaa"
+source_aws_secret_key = "bbbbbbbbbbbbbbbbbbbbbbbb"
