@@ -1,4 +1,4 @@
-# CROSS-ACCOUNT-DASHBOARD-SYNC
+# CROSS-ACCOUNT-DASHBOARD-IMPORT-AssetbundleAPIs
 
 ### Requirements
 - Source and Destination aws accounts must have role alterations permissions.
